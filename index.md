@@ -17,7 +17,7 @@ Code can be highlighted with 'backticks'.
 
 Hyperlinks look like this: [GitHub Help](https://help.github.com/).
 
-Sarah's blog is here:[Sarah's Blog](https://sarahmatu.github.io/DigiRainProject/).
+Sarah's blog is here: [Sarah's Blog](https://sarahmatu.github.io/DigiRainProject/).
 
 A bullet list:
 
